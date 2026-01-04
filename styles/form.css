@@ -1,0 +1,7 @@
+header h1 {
+ text-align: center;
+}
+form .costomer-info label{
+ display: block;
+margin-top: 10px;
+}
